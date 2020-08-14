@@ -20,8 +20,13 @@ import org.junit.Test;
  * @see
  */
 // 第一次修改
+<<<<<<< HEAD
 // 第二次修改
 // 本地修改
+=======
+//第二次修改
+//远程修改
+>>>>>>> branch 'master' of https://github.com/hml528528/team3.git
 public class TestString {
     @Test
     public void test01() {
